@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nana2929&layout=compact&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nana2929/Nana2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
